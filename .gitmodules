@@ -1,3 +1,0 @@
-[submodule "lib/TestSubModule"]
-	path = lib/TestSubModule
-	url = https://github.com/RRLorenz/SubTreeLibrary
